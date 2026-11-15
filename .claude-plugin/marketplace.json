@@ -1,0 +1,17 @@
+{
+  "name": "obama-skill",
+  "owner": {
+    "name": "Lucas Alves Castro"
+  },
+  "metadata": {
+    "description": "Roteador de modelos para o fluxo Spec Kit no Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "obama",
+      "source": "./plugins/obama",
+      "description": "Classifica demandas do Spec Kit e escolhe o modelo (Haiku, Sonnet, Opus ou Fable) para o agente em background",
+      "version": "1.0.0"
+    }
+  ]
+}

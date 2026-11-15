@@ -1,0 +1,10 @@
+{
+  "name": "obama",
+  "version": "1.0.0",
+  "description": "Classifica demandas do Spec Kit e escolhe o modelo (Haiku, Sonnet, Opus ou Fable) para o agente em background",
+  "author": {
+    "name": "Lucas Alves Castro"
+  },
+  "repository": "https://github.com/lucasalvesc/obama-skill",
+  "keywords": ["spec-kit", "speckit", "model-routing", "subagents"]
+}
