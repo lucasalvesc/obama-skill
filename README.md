@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/obama-mascot.svg" alt="Mascote do obama: robô pixelado com quatro luzes no peito, uma para cada modelo" width="160">
+</p>
+
 # obama-skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
