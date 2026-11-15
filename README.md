@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/obama-avatar.svg" alt="Pictograma do obama: boneco pixelado com quatro luzes no peito, uma para cada modelo" width="160">
+  <img src="assets/obama-futebol.gif" alt="Animação pixelada: o autor e o robô do obama trocando passes com uma bola de futebol" width="504">
 </p>
 
 # obama-skill
