@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/obama-mascot.svg" alt="Mascote do obama: robô pixelado com quatro luzes no peito, uma para cada modelo" width="160">
+  <img src="assets/obama-avatar.svg" alt="Pictograma do obama: boneco pixelado com quatro luzes no peito, uma para cada modelo" width="160">
 </p>
 
 # obama-skill
