@@ -5,6 +5,8 @@
   "author": {
     "name": "Lucas Alves Castro"
   },
+  "homepage": "https://github.com/lucasalvesc/obama-skill",
   "repository": "https://github.com/lucasalvesc/obama-skill",
+  "license": "MIT",
   "keywords": ["spec-kit", "speckit", "model-routing", "subagents"]
 }

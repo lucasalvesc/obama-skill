@@ -1,5 +1,7 @@
 # obama-skill
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Plugin do Claude Code com a skill **obama**: um roteador de modelos para o fluxo [Spec Kit](https://github.com/github/spec-kit).
 
 A skill lê cada demanda (fase do speckit ou tarefa do `tasks.md`), dá uma nota em 7 eixos e escolhe o modelo do agente em background:
@@ -62,3 +64,11 @@ Para que todo mundo que clonar o projeto receba a skill, commite isto em `.claud
 plugins/obama/.claude-plugin/plugin.json
 plugins/obama/skills/obama/SKILL.md
 ```
+
+## Contribuindo
+
+Issues e pull requests são bem-vindos. Para propor mudanças nas regras de roteamento (limiares, pisos por fase, eixos de pontuação), abra uma issue com exemplos de demandas e o modelo que você esperava.
+
+## Licença
+
+[MIT](LICENSE) © 2026 Lucas Alves Castro
